@@ -1,20 +1,21 @@
-# Welcome to your Lovable project
+# Welcome to your cryptic-key-crafter project
 
-## Project info
+# Cryptic-key-crafter
 
-**URL**: https://lovable.dev/projects/a5c21d1d-9dae-4c02-9e3c-da55db41f809
+Cryptic Key Crafter is a sleek and user-friendly random password generator that helps you create strong, secure, and customizable passwords in seconds.
+
+## Features
+
+- Generate random passwords with:
+  - Letters (uppercase & lowercase)
+  - Numbers
+  - Special characters
+- Copy to clipboard
+- Beautiful dark mode support
+- Easy to customize length and character sets
+- Fast, responsive UI with smooth animations
 
 ## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/a5c21d1d-9dae-4c02-9e3c-da55db41f809) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
-
-**Use your preferred IDE**
 
 If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
 
@@ -34,6 +35,9 @@ npm i
 
 # Step 4: Start the development server with auto-reloading and an instant preview.
 npm run dev
+
+# Step 5: view website
+**url**: http://localhost:3001/
 ```
 
 **Edit a file directly in GitHub**
@@ -59,15 +63,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/a5c21d1d-9dae-4c02-9e3c-da55db41f809) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
